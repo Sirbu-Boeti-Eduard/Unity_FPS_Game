@@ -1,2 +1,0 @@
-C:\Users\Patri\OneDrive\Documente\FPS\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
-C:\Users\Patri\OneDrive\Documente\FPS\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
